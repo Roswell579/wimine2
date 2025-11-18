@@ -1,2 +1,2 @@
 # wimine2
-sig mine Var France
+sig mine du Var France
